@@ -12,6 +12,6 @@ requests-oauthlib==1.0.0
 six==1.11.0
 socketIO-client==0.7.2
 tweepy==3.6.0
-urllib3==1.23
+urllib3==1.24.2
 websocket-client==0.48.0
 wget==3.2
